@@ -1,7 +1,10 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=👨🏻‍💻)
 
-
+<!-- 방문자 배지 추가 -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=001014k.001014k" />
+</p>
 
 <!-- GitHub Stats -->
 <p align="center">
