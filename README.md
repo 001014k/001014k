@@ -23,9 +23,25 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 
 | 프로젝트명 | 설명 | 사용 기술 | 링크 |
 |------------|------|-----------|------|
-| 🗺️ FlutterTrip | Supabase 기반의 여행지 마커 앱 (지도, 북마크, 친구 기능 포함) | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> | 🔒 비공개 |
+| 🗺️ FlutterTrip | Supabase 기반의 여행지 마커 앱 (지도, 북마크, 친구 기능 포함) | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white"/> | 🔒 비공개 |
 | 🚕 택시 예약 시스템 | 실시간 위치 기반 택시 호출, 기사-승객 매칭 기능 구현 | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> | [🔗 GitHub](https://github.com/001014k/Taxi-Driver-app) |
 | 🛒 중고 장터 경매 시스템 | 실시간 입찰, 거래, 채팅 기능을 포함한 중고 거래 플랫폼 | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> | [🔗 GitHub](https://github.com/001014k/trading-platform) |
+| 🏙️ Terra | 상권 추천 서비스 (실시간 데이터 기반 상권 분석 및 추천) |  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/> | [🔗 GitHub](https://github.com/Pianuu999/Terra)-협업 작품 |
+| 🏠 HHA | AI 기반 집 분위기 분석 및 가구 추천 시스템 |  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> | 🔒 비공개(캡스톤디자인-졸업작품)-협업 작품 |
+
+---
+
+## 🛠️ 프로젝트별 개발 도구
+
+| 프로젝트명 | 개발 도구 |
+|------------|------------|
+| 🗺️ FlutterTrip | <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> |
+| 🚕 택시 예약 시스템 | <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> |
+| 🛒 중고 장터 경매 시스템 | <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> |
+| 🏙️ Terra | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> |
+| 🏠 HHA |  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/> |
+
+
 
 > 더 많은 프로젝트는 [GitHub 프로필](https://github.com/001014k?tab=repositories)에서 확인할 수 있어요.
 
@@ -63,7 +79,7 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 > 협업 제안이나 기술 토론은 언제든 환영합니다!
 
 <p align="left">
-  <a href="mailto:gimmyeongjong@gmail.com">
+  <a href="mailto:hm4854@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
