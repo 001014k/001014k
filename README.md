@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐣👨‍💻&fontAlign=70)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=2023.06.22_start&font=Redressed&size=40)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdachan&layout=compact&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hdachan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001014k&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=001014k&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
 </p>
 
 <p align="left"> 
