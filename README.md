@@ -44,6 +44,20 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 | 🏙️ Terra | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> |
 | 🏠 HHA |  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/> |
 
+---
+
+## 📦 프로젝트별 GitHub Repo Cards
+
+| 프로젝트명 | Repository |
+|------------|------------|
+| 🗺️ FlutterTrip | <a href="https://github.com/001014k/FlutterTrip" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=FlutterTrip&theme=blue_navy" /></a> |
+| 🚕 택시 예약 시스템 | <a href="https://github.com/001014k/Taxi-Driver-app" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=Taxi-Driver-app&theme=blue_navy" /></a> |
+| 🛒 중고 장터 경매 시스템 | <a href="https://github.com/001014k/trading-platform" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=trading-platform&theme=blue_navy" /></a> |
+| 🏙️ Terra | <a href="https://github.com/Pianuu999/Terra" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianuu999&repo=Terra&theme=blue_navy" /></a> |
+| 🏠 HHA | 🔒 비공개 프로젝트 |
+
+
+
 
 
 > 더 많은 프로젝트는 [GitHub 프로필](https://github.com/001014k?tab=repositories)에서 확인할 수 있어요.
