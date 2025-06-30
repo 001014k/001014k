@@ -8,8 +8,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001014k&layout=compact&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=001014k&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001014k&layout=compact&theme=blue_navy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=001014k&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy" />
 </p>
 
 ---
@@ -48,34 +48,36 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 
 ## 📦 프로젝트별 GitHub Repo Cards
 
-| 프로젝트명 | Repository |
-|------------|------------|
-| 🗺️ FlutterTrip | <a href="https://github.com/001014k/FlutterTrip" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=FlutterTrip&theme=blue_navy" /></a> |
-| 🚕 택시 예약 시스템 | <a href="https://github.com/001014k/Taxi-Driver-app" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=Taxi-Driver-app&theme=blue_navy" /></a> |
-| 🛒 중고 장터 경매 시스템 | <a href="https://github.com/001014k/trading-platform" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=trading-platform&theme=blue_navy" /></a> |
-| 🏙️ Terra | <a href="https://github.com/Pianuu999/Terra" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianuu999&repo=Terra&theme=blue_navy" /></a> |
-| 🏠 HHA | 🔒 비공개 프로젝트 |
+<div align="center">
 
+<a href="https://github.com/001014k/Taxi-Driver-app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=Taxi-Driver-app&theme=blue_navy" alt="Taxi Driver Repo Card" style="margin: 10px;" />
+</a>
 
+<a href="https://github.com/001014k/trading-platform" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=001014k&repo=trading-platform&theme=blue_navy" alt="Trading Platform Repo Card" style="margin: 10px;" />
+</a>
 
+<a href="https://github.com/Pianuu999/Terra" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianuu999&repo=Terra&theme=blue_navy" alt="Terra Repo Card" style="margin: 10px;" />
+</a>
 
+</div>
 
-> 더 많은 프로젝트는 [GitHub 프로필](https://github.com/001014k?tab=repositories)에서 확인할 수 있어요.
-
-
+**🏠 HHA 프로젝트는 비공개입니다.**
 
 ---
 
 ## 🛠️ 사용 기술 (Tech Stack)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
 </p>
 
 ---
@@ -83,10 +85,10 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 ## 🧰 개발 도구 (Tools)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -97,16 +99,16 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 
 <p align="left">
   <a href="mailto:hm4854@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://velog.io/@yourname">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
   </a>
   <a href="https://github.com/001014k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
