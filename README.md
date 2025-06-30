@@ -21,14 +21,14 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 
 ## 📁 프로젝트 소개
 
-| 프로젝트명 | 설명 | 링크 |
-|------------|------|------|
-| 🗺️ FlutterTrip | Supabase 기반의 여행지 마커 앱 (지도, 북마크, 친구 기능 포함) | 🔒 비공개 |
-| 🚕 택시 예약 시스템 | 실시간 위치 기반 택시 호출, 기사-승객 매칭 기능 구현 | [🔗 GitHub](https://github.com/001014k/trading-platform) |
-| 🛒 중고 장터 경매 시스템 | 실시간 입찰, 거래, 채팅 기능을 포함한 중고 거래 플랫폼 | [🔗 GitHub](https://github.com/001014k/Taxi-Driver-app) |
-
+| 프로젝트명 | 설명 | 사용 기술 | 링크 |
+|------------|------|-----------|------|
+| 🗺️ FlutterTrip | Supabase 기반의 여행지 마커 앱 (지도, 북마크, 친구 기능 포함) | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> | 🔒 비공개 |
+| 🚕 택시 예약 시스템 | 실시간 위치 기반 택시 호출, 기사-승객 매칭 기능 구현 | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> | [🔗 GitHub](https://github.com/001014k/Taxi-Driver-app) |
+| 🛒 중고 장터 경매 시스템 | 실시간 입찰, 거래, 채팅 기능을 포함한 중고 거래 플랫폼 | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> | [🔗 GitHub](https://github.com/001014k/trading-platform) |
 
 > 더 많은 프로젝트는 [GitHub 프로필](https://github.com/001014k)에서 확인할 수 있어요.
+
 
 
 ---
