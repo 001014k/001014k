@@ -32,7 +32,6 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
 | 🏙️ Terra | 상권 추천 서비스 (실시간 데이터 기반 상권 분석 및 추천) |  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pianuu999/Terra)-협업 작품 |
 | 🏠 HHA | AI 기반 집 분위기 분석 및 가구 추천 시스템 |  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> | 🔒 비공개(캡스톤디자인-졸업작품)-협업 작품 |
 
-
 ---
 
 ## 🛠️ 프로젝트별 개발 도구
@@ -112,6 +111,70 @@ Firebase와 Supabase를 함께 다루며 **백엔드 연동**까지 폭넓게 �
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 💪 개인 기술 스택 (Skills & Expertise)
+
+
+### 📱 모바일 앱 개발  
+Flutter, Dart, Kotlin, Android, iOS 등 모바일 앱 개발 역량
+
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
+</p>
+
+
+### 🌐 웹 개발  
+React, JavaScript 기반 웹 개발 경험
+
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+
+### 🗺️ 지도 및 위치 기반 서비스  
+Google Maps, Mapbox 등 지도 API 활용 경험
+
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" alt="Mapbox" />
+</p>
+
+
+### 🤖 AI / 데이터 사이언스  
+Python, Anaconda, Jupyter Notebook을 활용한 AI 및 데이터 분석 경험
+
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+
+### 🗄️ 백엔드 & DB  
+Supabase, Firebase 등 백엔드 및 데이터베이스 활용 능력
+
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+
+### 🔧 버전 관리 및 협업 도구  
+Git, GitHub 등 협업과 버전관리 도구 사용 경험
+
+<p align="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+
 
 ---
 
