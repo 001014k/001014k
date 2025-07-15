@@ -96,9 +96,11 @@ Provider 등 다양한 상태관리 도구를 적용해 데이터 흐름의 일�
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianuu999&repo=Terra&theme=blue_navy" alt="Terra Repo Card" style="margin: 10px;" />
 </a>
 
-</div>
+<a href="https://github.com/AnByeongDo/HHA" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnByeongDo&repo=HHA&theme=blue_navy" alt="HHA Repo Card" style="margin: 10px;" />
+</a>
 
-**🏠 HHA 프로젝트는 비공개입니다.**
+</div>
 
 ---
 
